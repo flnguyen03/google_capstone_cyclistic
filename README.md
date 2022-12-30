@@ -1,5 +1,5 @@
 ## Preface:
-I'll be presenting my data analysis to a big audience. Several people present are, **Lily Moreno:** the director of marketing and my manager over at a fictious company named, Cyclistic including the marketing analystics team and the executive team. For detail context of the capstone case study including steps of the data preparations, please follow this [link](https://github.com/flnguyen03/google_capstone_cyclistic).
+I'll be presenting my data analysis to a big audience. Several people present are, **Lily Moreno:** the director of marketing and my manager over at a fictious company named, Cyclistic including the marketing analystics team and the executive team. For detail context of the capstone case study including steps of the data preparations, please follow this [link](https://github.com/flnguyen03/google_capstone_cyclistic/blob/main/cyclist_bike_share%20(12NOV2022).ipynb).
 
 *Background:* "How do annual members and casual riders use Cyclistic bikes differently?". 
 
